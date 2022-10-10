@@ -4,7 +4,7 @@
 - **Team Name:** Cambiatus
 - **EOS Payment Address:** EOS payment address
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
-- **Pomelo Grant(s):** (https://gitcoin.co/grants/7379/cambiatus-new-organizations-for-the-planet-regene)
+- **Pomelo Grant(s):** 
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
 - **Repository where Project resides:** (https://github.com/cambiatus)
