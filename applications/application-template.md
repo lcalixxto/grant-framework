@@ -3,7 +3,7 @@
 - **Project Name:** Roles and Permissions
 - **Team Name:** Cambiatus
 - **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
 - **Pomelo Grant(s):** (https://gitcoin.co/grants/7379/cambiatus-new-organizations-for-the-planet-regene)
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** No
@@ -13,7 +13,7 @@
 ## Contact
 
 - **Contact Name:** Luiz Hadad
-- **Contact Email:** luizhadad@gmail.com
+- **Contact Email:** luiz@cambiatus.com
 - **Website:** https://cambiatus.com/
 
 ## Project Overview
